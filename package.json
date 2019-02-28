@@ -1,0 +1,6 @@
+{
+  "name": "cwp-23",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": ["mendeleev", "mendeleev-stringify", "mendeleev-master"]
+}
